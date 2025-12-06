@@ -61,15 +61,15 @@ const Footer: React.FC<FooterProps> = ({ setActiveView }) => {
                     <ul className="space-y-3 text-muted-foreground">
                         <li className="flex items-start gap-3">
                             <Mail className="h-5 w-5 mt-0.5 flex-shrink-0" />
-                            <a href="mailto:support@aurawellness.ai" className="hover:text-primary">support@aurawellness.ai</a>
+                            <a href="mailto:supportaurawellness@gmail.com" className="hover:text-primary">supportaurawellness@gmail.com</a>
                         </li>
                         <li className="flex items-start gap-3">
                             <Phone className="h-5 w-5 mt-0.5 flex-shrink-0" />
-                            <span>+1 (800) 555-AURA</span>
+                            <span>+91 6363845197-AURA</span>
                         </li>
                         <li className="flex items-start gap-3">
                             <MapPin className="h-5 w-5 mt-0.5 flex-shrink-0" />
-                            <span>123 Wellness Ave, Mindful City, 45678</span>
+                            <span>Bengaluru , karnataka </span>
                         </li>
                     </ul>
                 </div>
